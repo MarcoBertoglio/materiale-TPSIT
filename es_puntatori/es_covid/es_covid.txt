@@ -1,0 +1,25 @@
+typedef struct regione{
+    int data;
+    char stato;
+    int codice_regione;
+    int denominazione_regione;
+    int lat;
+    int long;
+    int ricoverati_sint;
+    int terap_intes;
+    int tot_ospedal;
+    int iso_dom;
+    int tot_pos;
+    int var_pos;
+    int nuovi_pos;
+    int dim_guariti;
+    int deceduti;
+    int caso_sospetto;
+    int casi screnning;
+    int tot_casi;
+    int casi_testati;
+}
+
+main(){
+    Regione covid[];
+}
